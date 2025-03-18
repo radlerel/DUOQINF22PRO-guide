@@ -199,3 +199,7 @@ Reset bootloader errors! Or put the phone into emergency recovery mode. If you d
 After you have flashed the phone, assemble it in reverse order, first connect the battery power cable back to the board and put the plate back ( do not mix it up, the correct position of the plate is important ), put the phone back into the case and snap all the notches. Great, everything is ready.
 
 ## Over time, I will supplement this guide for this phone and periodically make changes to this repository, attach firmware and various goodies. Thank you all!
+
+#### Links 
+
+Chinese stock firmware with a scatter file : https://drive.google.com/file/d/1di4SMTSEqYivjCX8rALX2yXqw-KAKGSV/view
