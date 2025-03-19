@@ -205,3 +205,5 @@ After you have flashed the phone, assemble it in reverse order, first connect th
 Chinese stock firmware with a scatter file : https://drive.google.com/file/d/1di4SMTSEqYivjCX8rALX2yXqw-KAKGSV/view
 
 4PDA Forum Topic : https://4pda.to/forum/index.php?showtopic=1050086
+
+XDA Forum ( Unofficial ) Topic : https://xdaforums.com/t/flash-xiaomi-qin-f22-pro-stock-firmware-with-google-play-with-and-without-root.4509111
