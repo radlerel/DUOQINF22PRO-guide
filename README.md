@@ -207,3 +207,9 @@ Chinese stock firmware with a scatter file : https://drive.google.com/file/d/1di
 4PDA Forum Topic : https://4pda.to/forum/index.php?showtopic=1050086
 
 XDA Forum ( Unofficial ) Topic : https://xdaforums.com/t/flash-xiaomi-qin-f22-pro-stock-firmware-with-google-play-with-and-without-root.4509111
+
+SP Flash Tool Download : https://androidmtk.com/smart-phone-flash-tool
+
+MTKClient Github : https://github.com/bkerler/mtkclient
+
+ModemMeta Tool : https://androidmtk.com/download-modemmeta-tool
