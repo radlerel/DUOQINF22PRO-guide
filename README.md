@@ -1,5 +1,5 @@
 
-## Phone FAQ
+## Epic Dumbphone FAQ
 
 #### How to enter in a BROM mode?
 
