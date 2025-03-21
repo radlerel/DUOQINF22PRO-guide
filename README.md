@@ -22,6 +22,13 @@ Frequency Bands Supported:
 Audio: Type-C and TWS headphone compatibility
 Size and Weight: 147x58x9mm, 116g
 ```
+
+#### Photo
+
+<div align="center">
+ <img src="https://ae01.alicdn.com/kf/S965622a38c2e45be845f08dcce44c19cz.png_960x960.png"/>
+</div>
+
 #### How to enter in a BROM mode?
 
 First, you need to turn off the phone, then hold down the volume down button and connect the cable to the phone. 
