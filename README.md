@@ -1,4 +1,7 @@
+
+
 <div align="center">
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUxb2R3dWsxZHpzbzhlMnh0N2I0cGZwYTVuczZ6czFnZ3I0MGNjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/20ZUHwNogJMB6VgghD/giphy.gif"/>
  <h2>Epic Dumbphone FAQ</h2>
 </div>
 
