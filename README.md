@@ -5,6 +5,23 @@
  <h2>Epic Dumbphone FAQ</h2>
 </div>
 
+#### Device characteristics 
+```bash
+Operating System: Android 12
+Processor: MTK Helio G85
+Screen: 3.5-inch 640x960 touchscreen
+Memory: 4GB RAM (LPDDR4X-1800MHz) + 64GB ROM
+Camera: 8MP rear, 2MP front
+Battery: 2150mAh
+Connectivity: Wi-Fi, Hotspots, Bluetooth
+Frequency Bands Supported:
+   2G: GSM 2/3/5/8
+   3G: WCDMA 1/2/5/8
+   4G TDD-LTE: 34/38/39/40/41
+   4G FDD-LTE: 1/3/5/7/8/20/28a/28b
+Audio: Type-C and TWS headphone compatibility
+Size and Weight: 147x58x9mm, 116g
+```
 #### How to enter in a BROM mode?
 
 First, you need to turn off the phone, then hold down the volume down button and connect the cable to the phone. 
