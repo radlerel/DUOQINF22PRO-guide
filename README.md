@@ -41,10 +41,6 @@ adb reboot fastboot
 ```
 We can enter Recovery. Best way. 
 
-## Everything I wrote above doesn't make sense if Magisk is installed on this phone and the kernel is patched.
-
-Below I will describe the process of obtaining root rights on this king of dumbphones.
-
 ## Getting Root. How? 
 
 All we need is an unlocked bootloader, mtkclient with pre-installed drivers, about 20 IQ and a dump of your original firmware. If your bootloader is locked, you can unlock it! Thanks to the wonderful instruction on the GitHub of the Mtkclient project.
