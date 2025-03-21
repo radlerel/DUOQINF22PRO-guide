@@ -1,6 +1,7 @@
 <div align="center">
  <h2>Epic Dumbphone FAQ</h2>
 </div>
+
 #### How to enter in a BROM mode?
 
 First, you need to turn off the phone, then hold down the volume down button and connect the cable to the phone. 
