@@ -45,8 +45,6 @@ We can enter Recovery. Best way.
 
 All we need is an unlocked bootloader, mtkclient with pre-installed drivers, about 20 IQ and a dump of your original firmware. If your bootloader is locked, you can unlock it! Thanks to the wonderful instruction on the GitHub of the Mtkclient project.
 
-Les go -> 
-
 Turn off your phone. Launch mtkclient with a : 
 ```bash
 ./mtk.py r boot_a boot_a.img
